@@ -1,7 +1,9 @@
 class TestProject{
 	
 	public static void main(String args[]){
-		System.out.println("Test Project Welcome");
+		for(int i=0;i<10;i++){
+			System.out.println("Test Project Welcome");
+		}
 	}
 
 }
